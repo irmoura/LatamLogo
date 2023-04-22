@@ -1,0 +1,10 @@
+C:\Users\corag\source\repos\LatamLogo\bin\Debug\LatamLogo.exe.config
+C:\Users\corag\source\repos\LatamLogo\bin\Debug\LatamLogo.exe
+C:\Users\corag\source\repos\LatamLogo\bin\Debug\LatamLogo.pdb
+C:\Users\corag\source\repos\LatamLogo\obj\Debug\LatamLogo.csproj.AssemblyReference.cache
+C:\Users\corag\source\repos\LatamLogo\obj\Debug\LatamLogo.Form1.resources
+C:\Users\corag\source\repos\LatamLogo\obj\Debug\LatamLogo.Properties.Resources.resources
+C:\Users\corag\source\repos\LatamLogo\obj\Debug\LatamLogo.csproj.GenerateResource.cache
+C:\Users\corag\source\repos\LatamLogo\obj\Debug\LatamLogo.csproj.CoreCompileInputs.cache
+C:\Users\corag\source\repos\LatamLogo\obj\Debug\LatamLogo.exe
+C:\Users\corag\source\repos\LatamLogo\obj\Debug\LatamLogo.pdb
